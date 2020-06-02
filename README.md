@@ -8,7 +8,6 @@ A go application has been deployed to docker container using an image configurat
 To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
-* Go 
 * Docker
 
 
