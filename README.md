@@ -29,6 +29,7 @@ docker run -p 3000:3000 go-docker-dep
 
 ## Test the server is running
 1. Go to http://localhost:3000
+(YourHostIP:3000)
 
 Response
 ```sh
